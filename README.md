@@ -1,6 +1,5 @@
 
 # Advanced Login System
-!-- Add your screenshot here -->
 
 A modern, responsive login system with beautiful animations, form validation, and multiple authentication methods.
 
